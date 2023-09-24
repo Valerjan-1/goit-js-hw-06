@@ -7,11 +7,3 @@ categories.forEach(function (category) {
   console.log("Category:", categorie[0].textContent);
   console.log("Elements:", categorie[1].children.length);
 });
-
-// console.log(
-//     "Category:",
-//     categorie[0].textContent,
-//     "Elements:",
-//     categorie[1].children.length
-//   );
-// });
